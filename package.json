@@ -39,5 +39,12 @@
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
     "prettier-plugin-tailwindcss": "^0.5.11"
-  }
+  },
+  "description": "<p align=\"center\">   <img src=\"public/og.png\" alt=\"Next.js and TypeScript\"> </p>",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
 }

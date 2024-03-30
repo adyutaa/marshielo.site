@@ -30,9 +30,9 @@ const spaceMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Kaminari",
+  title: "Marshielo",
   generator: "Next.js",
-  applicationName: "Kaminari",
+  applicationName: "Marshielo.site",
   referrer: "origin-when-cross-origin",
   keywords: [
     "Next.js",
