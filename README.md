@@ -2,9 +2,6 @@
   <img src="public/og.png" alt="Next.js and TypeScript">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&style=for-the-badge&color=24B36B&labelColor=000000" alt="MARSHIELO.SITE" />
-
 </p>
 
 <p align="center">
